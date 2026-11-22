@@ -1,0 +1,8 @@
+body_type,non_fit_rate,fit_rate,small_rate,large_rate,total_records,sufficient_sample
+apple,28.5,71.5,14.87,13.64,4877,True
+athletic,25.67,74.33,13.65,12.02,43667,True
+full bust,28.2,71.8,14.25,13.95,15006,True
+hourglass,26.18,73.82,13.19,13.0,55349,True
+pear,27.1,72.9,12.68,14.42,22135,True
+petite,25.69,74.31,12.61,13.08,22131,True
+straight & narrow,25.4,74.6,13.36,12.03,14742,True

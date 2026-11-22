@@ -1,0 +1,46 @@
+{
+  "total_records": 192544,
+  "total_columns": 35,
+  "fit_distribution": {
+    "fit": 142058,
+    "small": 25779,
+    "large": 24707
+  },
+  "non_fit_rate_pct": 26.22,
+  "fit_rate_pct": 73.78,
+  "missing_values": {
+    "fit": 0,
+    "rating": 82,
+    "body_type": 14637,
+    "height_inches": 677,
+    "weight_lbs": 29982,
+    "age": 960,
+    "category": 0,
+    "rented_for": 10
+  },
+  "categories_count": 68,
+  "body_types_count": 7,
+  "size_range": [
+    0,
+    58
+  ],
+  "age_range": [
+    0.0,
+    117.0
+  ],
+  "height_range_inches": [
+    54.0,
+    78.0
+  ],
+  "weight_range_lbs": [
+    50.0,
+    300.0
+  ],
+  "unique_users": 105571,
+  "unique_items": 5850,
+  "date_range": [
+    "2010-11-03",
+    "2018-01-08"
+  ],
+  "full_duplicates": 189
+}

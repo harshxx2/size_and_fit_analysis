@@ -1,0 +1,11 @@
+# Ignore large dataset files to avoid exceeding GitHub limits
+data/raw/renttherunway_final_data.json
+data/raw/modcloth_final_data.json
+data/processed/renttherunway_cleaned.csv
+data/processed/fit_feedback.db
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
